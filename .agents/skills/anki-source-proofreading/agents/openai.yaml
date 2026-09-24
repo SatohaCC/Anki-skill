@@ -1,0 +1,3 @@
+interface:
+  display_name: "教材PDF参照校正"
+  short_description: "PDF資料を参照し、学習メモの誤字・改行・文体と用語集を整える"

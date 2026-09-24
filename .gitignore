@@ -1,0 +1,7 @@
+# Keep all exam folder names and files local; publish only the shared ignore file.
+/target-folder/*
+!/target-folder/.gitignore
+
+# Keep local backups and generated caches out of the public repository.
+/.local-history/
+/.mypy_cache/
